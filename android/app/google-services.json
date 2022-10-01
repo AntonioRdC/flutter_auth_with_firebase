@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "257942614988",
+    "project_id": "auth-e5d59",
+    "storage_bucket": "auth-e5d59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257942614988:android:6d43e1000a4e99fc182369",
+        "android_client_info": {
+          "package_name": "com.antonio.emailsenha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257942614988-5pbvh9t1imkghn7k5aisvfb3uclggiac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAaYeEoPCE8gUXEwc0LbAzSmefu9Pm0iI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257942614988-5pbvh9t1imkghn7k5aisvfb3uclggiac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
